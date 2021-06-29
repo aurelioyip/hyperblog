@@ -1,6 +1,26 @@
+[17:43] Jose Villarroel
+    
+
 body
-{
-    color: deeppink;
-    text-align: center;
-    font-family: "Arial";
-}
+{​​​​​​​​
+color: #333;
+text-align: center;
+font-family: "Arial";
+font-size: 16px;
+margin: 0;
+padding: 0;
+}​​​​​​​​
+#container
+{​​​​​​​​
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1pxsolid#DDD;
+margin: 0auto;
+}​​​​​​​​
+ 
+#containerh1
+{​​​​​​​​
+font-size: 20px;
+}​​​​​​​​
+
