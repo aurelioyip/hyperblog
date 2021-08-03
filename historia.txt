@@ -1,8 +1,20 @@
+<<<<<<< HEAD
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 33 años y nació en Colombia, 
+viviendo en todo el mundo 
+
+Hoy hablaremos de su vida y obra maestra. 
+=======
 Esta e la historia de Koken
 
 Koken tiene 56 años y nacio en Bocas
 viviendo en todo e mundo
 
 Hoy hablaremos de su vida y obra maestra.
+<<<<<<< HEAD
 
 Otra linea Jose.
+=======
+>>>>>>> 559a3a66eedd3385ac250ded37924310f44ebc1d
+>>>>>>> footer
